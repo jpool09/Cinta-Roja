@@ -1,0 +1,13 @@
+.contenedor {
+  width: 20vw;
+  height: 40vh;
+  background-color: aqua;
+}
+
+.is-orange {
+  background-color: orange;
+}
+
+.cuerpoContenedor {
+  background-color: red;
+}
